@@ -8,8 +8,8 @@
 #   Usage
 # -------------------------------------
 #
-#  `sass-linter stylesheets/*.sass`
-#  `sass-linter stylesheets/*.sass stylesheets/**/*.sass`
+#  `sass-linter stylesheets/*.scss`
+#  `sass-linter stylesheets/*.sass stylesheets/**/*.scss`
 #
 # *************************************
 
